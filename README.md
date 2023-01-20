@@ -1,4 +1,3 @@
-# Доска | Проект 4
+# Загрузка | Loader
 
-[Жми сюда](https://loader-sepia.vercel.app/))
-
+[Жми сюда](https://board-sources.vercel.app/)
